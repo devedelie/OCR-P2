@@ -1,0 +1,33 @@
+body {
+    background-color: #FFC300;
+}
+h1 {
+    font-size: 45px;
+    color: #FF5733;
+	text-decoration: underline;
+}
+
+h2 {
+    
+    color: #900C3F;
+}
+
+p {
+    font-family: Helvetica, Times, serif;
+    color: #900C3F;
+}
+a:link {
+    color: blue;
+	text-decoration: none;
+}
+
+a:visited {
+    color: green;
+	text-decoration: none;
+	background-color: lightgreen;
+}
+
+a:hover {
+    color: hotpink;
+	text-decoration: underline;
+}
